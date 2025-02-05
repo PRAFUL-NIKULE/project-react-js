@@ -1,0 +1,18 @@
+.job-cont{
+    width: 100vw;
+    background-image: url(../../assets/home-bg-2.jpg);
+    background-size: cover;
+  }
+ .filter-alljobs-cont{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+ }
+ .filter-sec{
+    width: 40%;
+ }
+ .alljobs-sec{
+    width: 100%;
+    padding: 20px;
+    color: white;
+ }

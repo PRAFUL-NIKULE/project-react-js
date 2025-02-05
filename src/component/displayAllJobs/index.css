@@ -1,0 +1,12 @@
+.jobs-cards{
+    width: 100%;
+    padding: 15px;
+    background-color: #4C585B;
+    margin-bottom: 10px;
+    list-style: none;
+    border-radius: 15px;
+}
+.title-logo-cont{
+    display: flex;
+    color: #A5BFCC;
+}

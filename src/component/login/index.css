@@ -1,0 +1,22 @@
+.login-cont{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../../assets/bg-2.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-box{
+    background-image: url(../../assets/bg-1.jpg);
+    background-size: cover;
+    box-shadow: 5px 5px 10px 2px black;
+    padding: 15px;
+    border-radius: 25px;
+    border: none;
+}
+.login-logo-img{
+   width: 200px;
+   margin-left: 100px;
+}
+
